@@ -1,0 +1,17 @@
+body{
+    background: #E5E7E9;
+}
+.cont{
+    background-color: gray;
+    width: 50%;
+    height: 50%;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: auto;
+    color: azure;
+    border: solid #2ECC71;
+    border-style:groove ;
+    border-width: 10px;
+     
+}
+    

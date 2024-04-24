@@ -1,0 +1,20 @@
+header{
+    width: 100%;
+    background: #B3B6B7;
+    border: 25px solid yellow;
+    border-style: dotted; 
+    text-align: center;
+    color: azure;   
+}
+nav{
+    width: 100%;
+    background: #F7F9F9;
+    border:8px solid black ;
+    text-align: center;    
+    margin: auto;
+}
+.img{
+    float: left;
+    width: 13%;
+    padding: 10px;
+}
